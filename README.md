@@ -168,3 +168,12 @@ Potential future improvements:
 This document outlines the architecture, features, and functionalities of the StudyNotion ed-tech platform, highlighting the use of MERN stack technologies, REST API design, and the deployment process using various hosting services. Additionally, it lists potential future enhancements to improve the platform.
 
 Throughout the development of the project, various achievements will be made in terms of implementing desired functionalities and creating a user-friendly interface. Challenges may arise, such as integrating different technologies and debugging errors, but these will be addressed to ensure the platform's success.
+
+By following best practices in software development, such as code reviews, testing, and documentation, the StudyNotion platform will be a robust and reliable solution for students and instructors alike. The platform aims to revolutionize the ed-tech industry by providing an interactive and engaging learning experience for all users.
+
+---
+
+## Note:
+
+This project is Still in Development phase and thatsWhy there is no attached link for its live working but it will soon be added. So stay Tuned.
+For now you can check the code and design of the project.
