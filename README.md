@@ -1,4 +1,3 @@
-```markdown
 # StudyNotion Ed-Tech Platform (MERN App) 📚💻
 
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
@@ -169,4 +168,3 @@ Potential future improvements:
 This document outlines the architecture, features, and functionalities of the StudyNotion ed-tech platform, highlighting the use of MERN stack technologies, REST API design, and the deployment process using various hosting services. Additionally, it lists potential future enhancements to improve the platform.
 
 Throughout the development of the project, various achievements will be made in terms of implementing desired functionalities and creating a user-friendly interface. Challenges may arise, such as integrating different technologies and debugging errors, but these will be addressed to ensure the platform's success.
-```
